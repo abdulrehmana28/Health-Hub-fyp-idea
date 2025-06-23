@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "alaa",
+    "essam",
+    "main"
+  ],
+  "parent": {
+    "alaa": "main",
+    "essam": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "alaa",
+    "essam"
+  ]
+}
